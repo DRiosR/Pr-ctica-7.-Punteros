@@ -1,11 +1,9 @@
 /*
-b) Ordenación de Palabras
-1. Crea un programa que incluya un arreglo de apuntadores a caracteres,
-donde cada apuntador apunta a una palabra (por ejemplo, "manzana",
-"banana", "cereza", "uva", "naranja").
-2. Utiliza apuntadores y la aritmética de direcciones para ordenar las palabras
-en orden alfabético.
-3. Imprime las palabras ordenadas en la consola.
+   Nombre del archivo: practica7_2.c
+   Autor: Daniel Rios Rodriguez
+   Fecha de creación: 10 de Noviembre de 2023
+   Descripción: Este programa en C ordena alfabéticamente las palabras proporcionadas como argumentos de línea de comandos utilizando el algoritmo de burbuja
+   para ordenamiento de cadenas.
 */
 #include <stdio.h>
 #include <string.h>

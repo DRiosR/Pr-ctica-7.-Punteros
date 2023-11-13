@@ -1,12 +1,9 @@
 /*
-c) Matriz Multidimensional
-1. Crea una matriz bidimensional de enteros, por ejemplo, 3x3, con algunos
-valores.
-2. Utiliza apuntadores y la aritmética de direcciones para recorrer la matriz y
-realizar las siguientes operaciones:
-✓ Calcula la suma de todos los elementos de la matriz.
-✓ Encuentra el elemento más grande en la matriz y muestra su valor y
-posición.
+   Nombre del archivo: practica7_3.c
+   Autor: Daniel Rios Rodriguez
+   Fecha de creación: 10 de Noviembre de 2023
+   Descripción: ste programa en C toma nueve argumentos de línea de comandos y los organiza en una matriz de 3x3. Luego, calcula la suma de todos los elementos de la matriz
+   y encuentra el número mayor. 
 */
 
 #include <stdio.h>

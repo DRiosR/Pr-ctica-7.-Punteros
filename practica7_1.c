@@ -1,13 +1,9 @@
 /*
-a) Argumentos en la Línea de Comandos
-1. Crea un programa que tome dos números enteros como argumentos desde
-la línea de comandos.
-2. Utiliza apuntadores para capturar estos argumentos y realizar las siguientes
-operaciones:
-✓ Suma los dos números y muestra el resultado.
-✓ Resta el segundo número del primero y muestra el resultado.
-✓ Multiplica los dos números y muestra el resultado.
-✓ Divide el primer número por el segundo y muestra el resultado.
+   Nombre del archivo: practica7_1.c
+   Autor: Daniel Rios Rodriguez
+   Fecha de creación: 10 de Noviembre de 2023
+   Descripción:Este programa toma dos números de punto flotante como argumentos de línea de comandos y realiza operaciones de suma, resta, multiplicación y división,
+   mostrando los resultados formateados en la consola..
 */
 
 #include <stdio.h>
